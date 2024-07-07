@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Leo+Megnigbeto.;+And+Welcome+to+My+Github+Profile!;I+Have+Over+1+years+of+Programming+experience;+Passionate+Back+developer+and+Software+Engineer;Based+on+Recent+Technologies+and+Frameworks;Fell+Free+to+contact+me+About+Your+Project;We+can+do+amazing+work's+Together;+until+then+Enjoy+my+github+;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Leo+Megnigbeto.;+And+Welcome+to+My+Github+Profile!;I+Have+Over+2+years+of+Programming+experience;+Passionate+Back+developer+and+Software+Engineer;Based+on+Recent+Technologies+and+Frameworks;Fell+Free+to+contact+me+About+Your+Project;We+can+do+amazing+work's+Together;+until+then+Enjoy+my+github+;" alt="Typing SVG">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leo&label=Profile%20views&color=0e75b6&style=flat" alt="Leo" /> </p>
@@ -17,7 +17,7 @@
     <h3 >💫 About Me: </h3>
     <p>- 🔭 I’m currently working on <strong>Full Stack development </strong></p>
     <p>- 🌱 passionate to work <strong>together</strong></p>
-    <p>- 👯 I’m looking to collaborate on <strong>website development & Ui/Ux design</strong></p>
+    <p>- 👯 I’m looking to collaborate on <strong>website, software development & AI project</strong></p>
     <p>- 💬 if you have an idea bring it up here and  <strong>let's talk </strong></p>
 </div>
 
@@ -28,10 +28,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
     <h3>🌐 How to reach me ? </h1>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fitsum-helina) 
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/per_777)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:dev.fitsum@gmai.com)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fitsumhelina) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leo-megnigbeto) 
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/+22955917627)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:leomegnigbeto@gmail.com)
 
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
